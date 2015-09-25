@@ -1,2 +1,5 @@
-# vs2t_project
-vs2t project
+# VS2T Project
+Cgroup
+Projet Intensif 
+Elec IA 2015
+ENSICAEN
